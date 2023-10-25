@@ -2,8 +2,9 @@
 
 ![ToDoList](todo-list.png)
 
-Este é o meu projeto ToDoList, criado como parte do desafio final do módulo do curso da Ada em parceria com o iFood, o qual passei no processo seletivo. 
+Este é o meu projeto ToDoList, criado como parte do desafio final do primeiro módulo do curso da Ada em parceria com o iFood, o qual passei no processo seletivo. 
 O ToDoList é uma aplicação de lista de tarefas simples, escrita em JavaScript e desenvolvida no Visual Studio Code com o auxílio do Node.js.
+// GRUPO 2: Alvaro, Everton, Gabriel Hein, Kalinka
 
 ## Funcionalidades
 
